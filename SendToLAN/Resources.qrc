@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/check_select.png</file>
+        <file>icons/check_select-light.png</file>
+        <file>icons/check_select-light_old.png</file>
+        <file>icons/collapse-down.png</file>
+        <file>icons/collapse-down-light.png</file>
+        <file>icons/collapse-down-old.png</file>
+        <file>icons/collapse-right.png</file>
+        <file>icons/collapse-right-light.png</file>
+        <file>icons/collapse-right-old.png</file>
+        <file>icons/down-arrow.png</file>
+        <file>icons/down-arrow-light.png</file>
+        <file>icons/icon_continuous.png</file>
+        <file>icons/icon_single.png</file>
+        <file>icons/minus.png</file>
+        <file>icons/minus-light.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/plus-light.png</file>
+        <file>icons/up-arrow-light.png</file>
+    </qresource>
+</RCC>
